@@ -11,4 +11,5 @@ Usage
 -----
 ```
 sbt "run data/sample_input sample_output"
+# validate output: cat sample_output
 ```
